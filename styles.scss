@@ -1,0 +1,11 @@
+$color_text_ul: red;
+$front-stack: Helvetica, sans-serif;
+
+ul {
+    color: $color_text_ul;
+    font: 100% $front-stack;
+}
+
+ol {
+    color: blue;
+}
